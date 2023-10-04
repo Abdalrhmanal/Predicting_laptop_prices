@@ -13,3 +13,5 @@ Authors: Abdul Rahman Al-Saraqbi - Muhammad Humaidan.
 
 Features: We have added a self-development feature to the project. The more this application is used, 
 the more training data will increase, and the accuracy of the algorithm will also increase.
+
+
